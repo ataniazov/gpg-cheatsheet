@@ -79,6 +79,12 @@ First of all you should consider to make a backup of your ~/.gnupg folder.
   $gpg --edit-key ID paswd
   ```
 
+## Key Servers
+
+```
+
+```
+
 ## Yubikey
 
 Now I'm going to show how to install a `Yubikey` smart card  and generate keys
