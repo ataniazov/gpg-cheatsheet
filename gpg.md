@@ -81,8 +81,30 @@ First of all you should consider to make a backup of your ~/.gnupg folder.
 
 ## Key Servers
 
+* CLI
+
+```
+pgp.mit.edu
+keys.gnupg.net
+keyserver.ubuntu.com
+keyring.debian.org
+pool.sks-keyservers.net
+pgp.key-server.io
+zimmermann.mayfirst.org
 ```
 
+* Tor
+
+```
+hkp://jirk5u4osbsr34t5.onion
+```
+
+* Manual
+
+```
+keyserver.pgp.com
+keys.mailvelope.com
+keybase.io
 ```
 
 ## Yubikey
