@@ -96,7 +96,7 @@ zimmermann.mayfirst.org
 * Tor
 
 ```
-hkp://jirk5u4osbsr34t5.onion
+jirk5u4osbsr34t5.onion
 ```
 
 * Manual
