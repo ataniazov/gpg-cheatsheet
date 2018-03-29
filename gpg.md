@@ -86,6 +86,7 @@ First of all you should consider to make a backup of your ~/.gnupg folder.
 ```
 pgp.mit.edu
 keys.gnupg.net
+keyserver.mozilla.org
 keyserver.ubuntu.com
 keyring.debian.org
 pool.sks-keyservers.net
